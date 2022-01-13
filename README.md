@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Dmitry Plastinin. I was born on October 10, 1998 with a bottle of vodka 🍾 in one hand, a balala 🎸 in the other, and a classic PC104 keyboard ⌨ in the third.
+
+
 
 <!--
 **uncellon/uncellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
