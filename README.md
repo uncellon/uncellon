@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Dmitry Plastinin. I was born on October 10, 1998 with a bottle of vodka 🍾 in one hand, a balalaika 🎸 in the other, and a classic PC104 keyboard ⌨ in the third as all Russians programmers should.
+My name is Dmitry Plastinin. I was born on October 10, 1998 with a bottle of vodka 🍾 in one hand, a balalaika 🎸 in the other, and a classic white PC104 keyboard ⌨ in the third as all Russians programmers should.
 
 On my GitHub page you could find examples of ugly 🤢 like my English language skills (maybe not), unreadable 🥵 (maybe not) but functionality 🙂 repositories.
 
