@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-My name is Dmitry Plastinin. I was born on October 10, 1998 with a bottle of vodka 🍾 in one hand, a balalaika 🎸 in the other, and a classic white PC104 keyboard ⌨ in the third as all Russians programmers should.
-
-On my GitHub page you could find examples of ugly 🤢 like my English language skills (maybe not), unreadable 🥵 (maybe not) but functionality 🙂 repositories.
+So, let's begin! My name is Dmitry Plastinin and I'm system engineer. Or not, hard to say, since now I work in a small company whose activities are related to the production of reverse-vending machines which are called "fandomats". I develop everything - from controller software to real-time monitoring on WebSockets. You can find several repositories on my GitHub page that I use successfully in our production software.
 
 <!--
 **uncellon/uncellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
