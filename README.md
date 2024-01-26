@@ -4,6 +4,8 @@ So, let's begin! My name is Dmitry Plastinin and I'm system engineer. Or not, ha
 
 I'm also trying to figure out a little bit about writing synthwave music and drawing pixel art 🙃
 
+Well, and also 3D printers, yes, I am interested in them. Thanks to this, my wife uses all kinds of printed stuff.
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
