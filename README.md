@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-So, let's begin! My name is Dmitry Plastinin and I'm system engineer. Or not, hard to say, since now I work in a small company whose activities are related to the production of reverse-vending machines which are called "fandomats". I develop everything - from controller software to real-time monitoring on WebSockets. You can find several repositories on my GitHub page that I use successfully in our production software.
+So, let's begin! My name is Dmitry Plastinin and I'm system engineer. Or not, hard to say, I worked in a small company whose activities are related to the production of reverse-vending machines which are called "fandomats" (bottle receiving machine if that sounds easier). I develop everything - from controller software on C++ to real-time monitoring on WebSockets. You can find several repositories on my GitHub page that I use successfully in our production software.
+
+I'm also trying to figure out a little bit about writing synthwave music and drawing pixel art 🙃
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
