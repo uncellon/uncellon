@@ -8,7 +8,7 @@ I'm also trying to figure out a little bit about writing synthwave music and dra
 
 Well, and also 3D printers (FDM and SLA), yes, I am interested in them. Thanks to this, my wife uses all kinds of printed stuff.
 
-### 🧑‍💻 Programming Language
+### 🧑‍💻 Programming Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,7 +16,7 @@ Well, and also 3D printers (FDM and SLA), yes, I am interested in them. Thanks t
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🖼️ Framework
+### 🖼️ Frameworks
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
